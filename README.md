@@ -2,12 +2,12 @@
 
 
 - 🔭 Graduação - Bacharel em Sistem da Informação
-- 🌱 Curso Técnico em Informática (Suporte e Redes) Senac Jesse Freire Asa Sul
-- 👯 Curso Administrador de Banco de Dados - Senac Ceilândia
-- 🤔 Curso Php com Mysql - Senac Ceilândia
-- 💬 Curso Front-End - Senac Taguatinga
+- 🌱 Curso Técnico em Informática (Suporte e Redes) Senac 
+- 👯 Curso Administrador de Banco de Dados - Senac 
+- 🤔 Curso Php com Mysql - Senac 
+- 💬 Curso Front-End - Senac 
 - 📫 Curso Montador de Equipamentos Eletrônicos Robótica - Escola Técnica de Ceilândia
-- 😄 Curso Técnico em Informática (Desenvolvimento de Sistema) Senac Ceilândia
+- 😄 Curso Técnico em Informática (Desenvolvimento de Sistema) Senac 
 - ⚡ Atualmente Trabalho na Área...
 
 <div align="center">
