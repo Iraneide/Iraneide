@@ -1,8 +1,8 @@
 ### Olá, sou Iraneide Silva Programadora Web 👩🏻‍💻
 
 
-- 🔭 Graduação - Bacharel em Sistem da Informação
-- 🌱 Curso Técnico em Informática (Suporte e Redes) Senac 
+- 🔭 Graduação - Bacharel em Sistem de Informação
+- 🔭 Pós Graduação - Desenvolvimento Orientado a Objetos com Java 
 - 👯 Curso Administrador de Banco de Dados - Senac 
 - 🤔 Curso Php com Mysql - Senac 
 - 💬 Curso Front-End - Senac 
